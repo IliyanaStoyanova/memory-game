@@ -9,12 +9,11 @@
 - _CSS_<br/>
 
 **What's the idea?** <br/>
-The game build a beginner-friendly memory card. The game have a grid of cards,
-where each card have a color. You have to find the matching cards.
+The game builds a beginner-friendly memory card. The game has a card grid, each with a colour. You have to find the matching cards.
 
 **Website features:**
 
-- Тhe different cards are turned face down;
+- The different cards are turned face down;
 - Мatched cards remain face up.
 
 ### Start the project
@@ -24,3 +23,4 @@ where each card have a color. You have to find the matching cards.
 ### Screenshots
 
 ---
+![main](https://github.com/IliyanaStoyanova/memory-game/assets/52379824/dd9440f9-80ce-455e-90f6-b5f48f2bad36)
